@@ -19,9 +19,6 @@ Employee attrition directly impacts productivity and hiring costs. This dashboar
 - **Power BI** — Data modeling, DAX measures, interactive visuals
 - **Excel** — Initial data cleaning
 
-## 📷 Dashboard Preview
-*(Screenshot ఇక్కడ add చేయి — Power BI file ని export చేసి image గా upload చేయొచ్చు)*
-
 ## 📌 How to View
 1. Download the `.pbix` file from this repository
 2. Open it in Power BI Desktop to explore the interactive dashboard
